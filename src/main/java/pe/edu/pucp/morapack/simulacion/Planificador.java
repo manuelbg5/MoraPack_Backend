@@ -1,8 +1,8 @@
-package pe.edu.pucp.simulacion;
+package pe.edu.pucp.morapack.simulacion;
 
-import pe.edu.pucp.models.Aeropuerto;
-import pe.edu.pucp.models.Pedido;
-import pe.edu.pucp.models.Vuelo;
+import pe.edu.pucp.morapack.models.Aeropuerto;
+import pe.edu.pucp.morapack.models.Pedido;
+import pe.edu.pucp.morapack.models.Vuelo;
 
 import java.util.ArrayList;
 import java.util.List;

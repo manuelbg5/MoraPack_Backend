@@ -1,4 +1,4 @@
-package pe.edu.pucp.models;
+package pe.edu.pucp.morapack.models;
 
 public class Pedido {
 

@@ -1,7 +1,6 @@
-package pe.edu.pucp.models;
+package pe.edu.pucp.morapack.models;
 
 import java.time.LocalDateTime;
-import java.time.LocalTime;
 
 public class Vuelo {
 

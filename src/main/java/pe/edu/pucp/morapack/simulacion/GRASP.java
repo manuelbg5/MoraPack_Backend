@@ -1,7 +1,6 @@
-package pe.edu.pucp.simulacion;
+package pe.edu.pucp.morapack.simulacion;
 
-import pe.edu.pucp.models.*;
-import pe.edu.pucp.simulacion.Solucion;
+import pe.edu.pucp.morapack.models.*;
 
 import java.time.Duration;
 import java.time.LocalDateTime;

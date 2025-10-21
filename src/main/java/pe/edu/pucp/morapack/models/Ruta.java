@@ -1,4 +1,4 @@
-package pe.edu.pucp.models;
+package pe.edu.pucp.morapack.models;
 
 import java.util.ArrayList;
 import java.util.List;
